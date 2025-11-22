@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HttpServApp.Models.Configuration" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABAAAAAAAAAAAAIIAAAKAABAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Models.HttpRequest" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIMAABAAAAAgAAggAAAAAAAQABUAAAB6AAAAAA=</HashCode>
+      <FileName>Models\HttpRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Models.HttpRequestPage" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HttpRequestPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Models.Repository" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAEAAAAAAAAAAAAAAAACAAAAAAAAACCEBAAAAI=</HashCode>
+      <FileName>Models\Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.592" />
+  </Class>
+  <Class Name="HttpServApp.Models.HttpRequestStat" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAiCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HttpRequestStat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Models.HttpResponse" Collapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAABAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HttpResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Models.HttpRequestInvalid" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\HttpRequestInvalid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.State.ValidatePageState" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>State\ValidatePageState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HttpServApp.State.ValidateStatisticState" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>State\ValidateStatisticState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HttpServApp.State.SendedState" Collapsed="true">
+    <Position X="4.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>State\SendedState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.221" />
+  </Class>
+  <Class Name="HttpServApp.State.DoneState" Collapsed="true">
+    <Position X="6.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>State\DoneState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.576" />
+  </Class>
+  <Class Name="HttpServApp.State.InvalidState" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>State\InvalidState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HttpServApp.ServiceHttp" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAAEACAAAACAAAAEAAAAEAAAAAQAAA=</HashCode>
+      <FileName>ServiceHttp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Listener" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABAAAAAAAEACAAAQAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Listener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Mediator.MediatorProcessing" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAACAAAAAAAAAAAAAIAAAABAAAAABAAAAAA=</HashCode>
+      <FileName>Mediator\MediatorProcessing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HttpServApp.Processing.MultiThreadProcessing" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\MultiThreadProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Processing.SingleThreadProcessing" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\SingleThreadProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.p2p.P2pRedirect" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAAA=</HashCode>
+      <FileName>p2p\P2pRedirect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Processing.Validator" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>iAAAAQABRAAAAAAAACAACAiQAARAEAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Processing\Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Processing.PreProcessing" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEIAAA=</HashCode>
+      <FileName>Processing\PreProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Builder.BuilderInvalid" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAABABAAAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>Builder\BuilderInvalid.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.109" />
+  </Class>
+  <Class Name="HttpServApp.Builder.BuilderPage" Collapsed="true">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAAAAAAAAAAAAABAAAAAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>Builder\BuilderPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.132" />
+  </Class>
+  <Class Name="HttpServApp.Builder.BuilderStat" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAgAACBAAAAAABAAIAAAAAIAAAQ=</HashCode>
+      <FileName>Builder\BuilderStat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.189" />
+  </Class>
+  <Class Name="HttpServApp.Composite.ResourceBase" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAgCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\ResourceBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Composite.ResourceFile" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgCAAEAAAEAAAAAAAAA=</HashCode>
+      <FileName>Composite\ResourceFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Composite.ResourceFolder" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAEAAAAAAAAABAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\ResourceFolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpServApp.Faсtory.CreatorRequestInvalid" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Faсtory\CreatorRequestInvalid.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="1.55" />
+  </Class>
+  <Class Name="HttpServApp.Faсtory.CreatorRequestPage" Collapsed="true">
+    <Position X="2.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Faсtory\CreatorRequestPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="HttpServApp.Faсtory.CreatorRequestStat" Collapsed="true">
+    <Position X="6.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Faсtory\CreatorRequestStat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="1.113" />
+  </Class>
+  <Class Name="HttpServApp.Processing.RequestProcessing" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAACAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processing\RequestProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

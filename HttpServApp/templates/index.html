@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Вiтаємо</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"/>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>      
+    <style>
+      body {
+        background-color: floralwhite;
+        background-image: url("background2.png");
+      }
+      img {
+        display: inline-block; 
+        border-radius: 10%; 
+        overflow: hidden; 
+        box-shadow: 10px 10px 2px 1px #8d8dc033;
+      }
+    </style>
+    
+    <script>
+      // Функцiя форматування дати/часу => dd.MM.yyyyTHH:mm
+      function formatDateTime(dateTime) {
+        let day = dateTime.getDate();
+        let month = dateTime.getMonth() + 1;
+        let year = dateTime.getFullYear();
+
+        let hours = dateTime.getHours();
+        let minutes = dateTime.getMinutes();
+
+        if (day < 10) day = "0" + day;
+        if (month < 10) month = "0" + month;
+        if (hours < 10) hours = "0" + hours;
+        if (minutes < 10) minutes = "0" + minutes;
+
+        return `${year}-${month}-${day}T${hours}:${minutes}`;
+      }
+
+      // Додавання обробника подiї завантаження стартової сторiнки
+      document.addEventListener("DOMContentLoaded", function () {
+        // За замовчуванням дата кiнця перiоду - поточний час
+        const inputDateEnd = document.getElementById("date_end");
+        if (inputDateEnd) {
+          inputDateEnd.value = formatDateTime(new Date());
+        }
+
+        // За замовчуванням дата початку перiоду - поточний час "мiнус" 1 год.
+        const inputDateBeg = document.getElementById("date_beg");
+        if (inputDateBeg) {
+          let dateTimeBeg = new Date();
+          dateTimeBeg = dateTimeBeg.setHours(dateTimeBeg.getHours()-1);
+          dateTimeBeg = new Date(dateTimeBeg);
+          inputDateBeg.value = formatDateTime(dateTimeBeg);
+        }      
+      });
+
+      // Функцiя-обробник подiї змiни видiленого елементу radio => визначення доступностi для редагування елементiв вводу
+      function handleChangePage(radio) {
+        form_params.file_name.disabled = (radio.id === "stat_request");
+        form_params.date_beg.disabled = (radio.id === "page_request");
+        form_params.date_end.disabled = (radio.id === "page_request");
+        form_params.key_authorization.disabled = (radio.id === "page_request");
+      }
+
+      // Функцiя-обробник завантаження даних
+      function handleSubmit() {
+        let url, 
+        headers = {
+          "Accept": "text/html"};
+        // Формуємо url сторiнки, що запитується
+        if (form_params.page_request.checked)
+          url = `/${form_params.file_name.value}`;
+        else {
+          document.cookie = "key-authorization=" + escape(form_params.key_authorization.value);
+          url =`/?type_request=stat&date_beg=${form_params.date_beg.value}&date_end=${form_params.date_end.value}`;
+          // Додатково для запиту статистики формуємо заголовок з ключом авторизацiї, що ввiв користувач
+          headers = { ...headers, "key-authorization": form_params.key_authorization.value };
+        }
+        // Вiдкриваємо нову вкладку браузера
+        const newTab = window.open(url, '_blank');
+
+      }
+    
+    </script>  
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="mt-4 row">
+        <div class="col-12 col-lg-3 d-flex justify-content-end">
+          <img src="world-http.jpg" alt="Логотип" />
+        </div>
+        <div class="col-12 col-lg-9 container">
+          <form id="form_params">
+            <div class="mb-3 mt-4 row">
+              <input class="col-1" type="radio" id="page_request" name="type_request" checked onchange="handleChangePage(this);">
+              <label class="h6 col-2 form-check-label" for="page_request"> Web-сторiнка </label> 
+      
+              <label class="d-flex justify-content-end col-2" for="file_name">Введiть iм'я файлу </label> 
+              <input class="col-7" type="text" id="file_name" name="file_name" required value=""/>
+            </div>   
+      
+            <div div class="mb-3 mt-4 row">
+              <input class="col-1" type="radio" id="stat_request" name="type_request" onchange="handleChangePage(this);"> 
+              <label class="h6 col-2 form-check-label" for="stat_request">Запит статистики</label> 
+      
+              <label class="d-flex justify-content-end col-2" for="date_beg">перiод з</label>
+              <input class="col-3" type="datetime-local" id="date_beg" name="date_beg" disabled/>
+              <label class="d-flex justify-content-center col-1" for="date_end">по</label>
+              <input class="col-3" type="datetime-local" id="date_end" name="date_end" disabled/>           
+            </div>
+      
+            <div class="mb-3 mt-4 row">    
+              <label class="d-flex justify-content-end col-5" for="key_authorization">ключ</label>
+              <input class="col-2" type="password" id="key_authorization" name="key_authorization" disabled required/>    
+            </div>      
+      
+            <div class="d-flex justify-content-center mt-4">
+              <button type="button" id="btn_load" class="btn btn-primary" disabled onclick="handleSubmit();">
+                <i class="fa-solid fa-arrow-up-from-bracket"></i> Завантажити
+              </button>
+            </div>
+          </form>
+        </div> 
+      </div>
+    </div>
+  
+  <script>
+    const formParams = document.getElementById("form_params"); 
+    // Для форми в цiлому визначаємо обробник подiї change
+    formParams.addEventListener('change', () => {
+
+      // кнопка "Завантажити" доступна, якщо форма валiдна
+      form_params.btn_load.disabled = !form_params.checkValidity();      
+    }, false);
+                  
+  </script>
+
+  </body>
+</html>

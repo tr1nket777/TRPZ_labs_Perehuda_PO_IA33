@@ -1,0 +1,16 @@
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\HttpServApp.exe
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\HttpServApp.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\HttpServApp.deps.json
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\HttpServApp.runtimeconfig.json
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\HttpServApp.dll.config
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\HttpServApp.pdb
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\Npgsql.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\System.Diagnostics.EventLog.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\System.ServiceProcess.ServiceController.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll

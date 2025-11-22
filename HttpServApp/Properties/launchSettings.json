@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HttpServApp": {
+      "commandName": "Project",
+      "commandLineArgs": "run=1"
+    }
+  }
+}

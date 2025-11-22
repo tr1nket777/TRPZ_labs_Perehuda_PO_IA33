@@ -1,0 +1,16 @@
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\HttpServApp.exe
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\HttpServApp.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\HttpServApp.deps.json
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\HttpServApp.runtimeconfig.json
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\HttpServApp.dll.config
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\HttpServApp.pdb
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\Npgsql.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\System.Diagnostics.EventLog.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\System.Security.Cryptography.ProtectedData.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\System.ServiceProcess.ServiceController.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Release\net8.0\publish\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll

@@ -1,0 +1,82 @@
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\HttpServApp.exe
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\HttpServApp.deps.json
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\HttpServApp.runtimeconfig.json
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\HttpServApp.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\HttpServApp.pdb
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.AssemblyInfoInputs.cache
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.AssemblyInfo.cs
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.csproj.CoreCompileInputs.cache
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.sourcelink.json
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\refint\HttpServApp.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.pdb
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.genruntimeconfig.cache
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\ref\HttpServApp.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\Npgsql.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServApp.csproj.AssemblyReference.cache
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\obj\Debug\net8.0\HttpServ.782036D4.Up2Date
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\HttpServApp.dll.config
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\HttpServApp.exe
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\HttpServApp.dll.config
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\HttpServApp.deps.json
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\HttpServApp.runtimeconfig.json
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\HttpServApp.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\HttpServApp.pdb
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\Npgsql.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.csproj.AssemblyReference.cache
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.AssemblyInfoInputs.cache
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.AssemblyInfo.cs
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.csproj.CoreCompileInputs.cache
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServ.782036D4.Up2Date
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\refint\HttpServApp.dll
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.pdb
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\HttpServApp.genruntimeconfig.cache
+C:\Аня школа\3 курс\TPRZ\HttpServApp\obj\Debug\net8.0\ref\HttpServApp.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\git_repos\TRPZ_labs_Kiiko_AO_IA24\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\HttpServApp.exe
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\HttpServApp.dll.config
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\HttpServApp.deps.json
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\HttpServApp.runtimeconfig.json
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\HttpServApp.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\HttpServApp.pdb
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\Npgsql.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.csproj.AssemblyReference.cache
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.AssemblyInfoInputs.cache
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.AssemblyInfo.cs
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.csproj.CoreCompileInputs.cache
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServ.782036D4.Up2Date
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\refint\HttpServApp.dll
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.pdb
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\HttpServApp.genruntimeconfig.cache
+D:\унік\ТРПЗ\трпз1\Нова папка\TRPZ_labs_Kiiko_AO_IA24-master\HttpServApp\obj\Debug\net8.0\ref\HttpServApp.dll
